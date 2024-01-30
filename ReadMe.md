@@ -1,5 +1,4 @@
-# Project Title
-
+# CrewAI-Tutorial
 A two AI agent system, one researches the internet for latest advancements in tech and other creates a 10 minute youtube video script based on the research of the first agent
 
 ## Prerequisites
