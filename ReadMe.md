@@ -1,4 +1,7 @@
 # CrewAI-Tutorial
+
+This is supplementary material for the blog post [Meet Your Digital Dream Team: Revolutionizing the Tech World with AI](https://micromastery.github.io/posts/meet-your-digital-dream-team-revolutionizing-tech-world-with-ai/).
+
 A two AI agent system, one researches the internet for latest advancements in tech and other creates a 10 minute youtube video script based on the research of the first agent
 
 ## Prerequisites
